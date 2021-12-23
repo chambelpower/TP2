@@ -1,0 +1,4 @@
+bitarray==0.8.1
+matplotlib~=3.5.0
+numpy~=1.21.4
+six~=1.16.0
